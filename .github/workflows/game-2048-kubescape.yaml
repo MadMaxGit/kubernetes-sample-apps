@@ -1,4 +1,4 @@
-name: Game 2048 Kubescape CI/CD Example
+name: Game 2048 Kubescape CI/CD Example 
 
 on:
   # push:
